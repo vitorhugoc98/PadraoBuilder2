@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Vitor/Documents/NetBeansProjects/Padrão%20Builder/src/padrão/builder/BuilderCarro.java</file>
+            <file>file:/C:/Users/Vitor/Documents/NetBeansProjects/Padrão%20Builder/src/padrão/builder/Cliente.java</file>
+            <file>file:/C:/Users/Vitor/Documents/NetBeansProjects/Padrão%20Builder/src/padrão/builder/CarroIntermediario.java</file>
+            <file>file:/C:/Users/Vitor/Documents/NetBeansProjects/Padrão%20Builder/src/padrão/builder/CarroCompleto.java</file>
+            <file>file:/C:/Users/Vitor/Documents/NetBeansProjects/Padrão%20Builder/src/padrão/builder/Director.java</file>
+            <file>file:/C:/Users/Vitor/Documents/NetBeansProjects/Padrão%20Builder/src/padrão/builder/MontarCarroCompleto.java</file>
+            <file>file:/C:/Users/Vitor/Documents/NetBeansProjects/Padrão%20Builder/src/padrão/builder/MontarCarroIntermediario.java</file>
+            <file>file:/C:/Users/Vitor/Documents/NetBeansProjects/Padrão%20Builder/src/padrão/builder/CarroBasico.java</file>
+            <file>file:/C:/Users/Vitor/Documents/NetBeansProjects/Padrão%20Builder/src/padrão/builder/MontarCarroBasico.java</file>
+        </group>
+    </open-files>
+</project-private>
